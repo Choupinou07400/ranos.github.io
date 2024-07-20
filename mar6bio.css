@@ -34,7 +34,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 100%;
   margin: 0;
 }
 
@@ -92,7 +92,6 @@ button:hover {
   background-color: #45a049;
 }
 
-body,
 html {
   width: 100%;
   font-size: 10px;
